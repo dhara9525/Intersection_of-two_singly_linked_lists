@@ -1,5 +1,7 @@
 Source of description: Leetcode
 Program: Intersection of two singly linked lists
+Submission Detail: 45 / 45 test cases passed.
+
 Write a program to find the node at which the intersection of two singly linked lists begins.
 
 For example, the following two linked lists:
